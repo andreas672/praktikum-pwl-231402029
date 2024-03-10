@@ -2,7 +2,7 @@
   <div class="navbar-start">
   </div>
   <div class="navbar-center">
-    <a href="/" class="btn btn-ghost text-xl hover:bg-green-500">To Do List</a>
+    <a href="/" class="btn btn-ghost text-xl hover:bg-green-500 rounded-full">To Do List</a>
   </div>
   <div class="navbar-end">
   </div>
